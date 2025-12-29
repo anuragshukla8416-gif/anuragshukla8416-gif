@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently pursuing my b tech degree from heritage institute of technology.<br>I am good at web development and have a good hands on python and c programming language.<br>I am not a coder i am a writer.<br>
+I'm currently pursuing my b tech degree from heritage institute of technology.<br>I'm good at web development and have a good hands on different programming language.<br>I'm not a coder i'm a writer.<br>
 
 
 ## 🌐 Socials:
