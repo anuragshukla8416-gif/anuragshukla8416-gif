@@ -1,6 +1,11 @@
 # 💫 About Me:
-I'm currently pursuing my b tech degree from heritage institute of technology.<br>I'm good at web development and have a good hands on different programming language.<br>I'm not a coder i'm a writer.<br>
+Hi 👋, I'm Anurag Shukla<br>  
 
+🎓 Computer Science student<br>  
+💻 Interested in Programming and Problem Solving<br>  
+🌱 Currently learning Web Development<br> 
+🚀 Exploring open-source and real-world projects <br> 
+📚 Strong interest in logic building and competitive programming<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shukla.d.anurag) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-shukla-23b183354) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Hot-Stand2873) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anuragshukla8416@gmail.com) 
