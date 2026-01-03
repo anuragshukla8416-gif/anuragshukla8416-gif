@@ -1,6 +1,5 @@
 # 💫 About Me:
 Hi 👋, I'm Anurag Shukla<br>  
-
 🎓 Computer Science student<br>  
 💻 Interested in Programming and Problem Solving<br>  
 🌱 Currently learning Web Development<br> 
